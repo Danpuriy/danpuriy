@@ -10,7 +10,7 @@ Los videos que estoy haciendo ahora.
 
 ## 📝 Escribiendo guión
 
-- **E00-01: El Sueño de Turing** — La Máquina de Turing Universal
+- **E00-01: El Sueño de Turing** — La Máquina de Turing Universal como 7-tupla
 
 ---
 
