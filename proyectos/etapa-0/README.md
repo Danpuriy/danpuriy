@@ -5,16 +5,11 @@ Completalos en orden para construir sobre lo aprendido.
 
 ---
 
-## Lista de Proyectos
+## Proyectos disponibles
 
 | # | Proyecto | Conceptos que integra | Dificultad |
 |---|----------|----------------------|------------|
 | 1 | **El Oráculo** | Control de flujo, CMake, Git, Clean Code | 🟢 Fácil |
-| 2 | **Motor de Análisis de Datos** | Loops, Arrays, Algoritmos Elementales | 🟢 Fácil |
-| 3 | **Evaluador de Expresiones** | Funciones, Recursión, string_view, span | 🟡 Medio |
-| 4 | **Simulador de Eventos Físicos** | Punteros, Memoria, Structs, Archivos, GDB | 🟠 Difícil |
-| 5 | **Mini-Compilador de Números** | IEEE 754, Casting, Shifts, Bitwise | 🟠 Difícil |
-| 6 | **Performance Benchmark Suite** | Cache, perf, strace, Makefiles | 🔴 Experto |
 
 ---
 
