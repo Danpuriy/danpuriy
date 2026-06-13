@@ -1,8 +1,8 @@
 # DANPURIY
 
-**Dan** como... bueno. **Puriy** es *camino* en quechua.
+**Dan** de Daniel. **Puriy** es *camino* en quechua. DANPURIY es "el camino de Daniel".
 
-DANPURIY es el proyecto donde comparto lo que voy aprendiendo mientras estudio ingeniería en computación. Sin atajos, sin apuro, pero con la mejor calidad que puedo dar.
+Este proyecto es eso: mi camino aprendiendo ingeniería en computación, grabado y compartido. Sin atajos, sin apuro, pero con la mejor calidad que puedo dar.
 
 No soy un experto. Soy alguien que está haciendo el camino y grabando todo. Si también estás aprendiendo, quizás te sirva.
 
