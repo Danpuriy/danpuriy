@@ -6,11 +6,11 @@ Los videos que estoy haciendo ahora.
 
 ## 🟢 Grabando
 
-- **E00-12: Tu Primer Binario C++23**
+- **E00-00: DANPURIY — El Camino de Daniel** (video de lanzamiento)
 
 ## 📝 Escribiendo guión
 
-- **Video de Lanzamiento** — ¿Qué es DANPURIY?
+- **E00-12: Tu Primer Binario C++23**
 
 ---
 
