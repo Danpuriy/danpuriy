@@ -16,20 +16,9 @@ Cada video cubre un concepto. Sin relleno, sin apurarlo. Si el concepto necesita
 
 ---
 
-## 🗺️ ¿Qué se viene?
+## 🗺️ Ahora
 
-| Etapa | Tema |
-|-------|------|
-| **0** | Fundamentos de Ingeniería (C++23) |
-| **1** | C++ a Fondo y Estructuras de Datos |
-| **2** | Sistemas (inspirado en CMU) |
-| **3** | Ingeniería de Software |
-| **4** | Sistemas Distribuidos |
-| **5** | Especialización |
-| **6** | Avanzado |
-| **7** | Liderazgo Técnico |
-
-Voy etapa por etapa. Cuando termine una, arranco la siguiente.
+Estoy en **Etapa 0: Fundamentos de Ingeniería (C++23)**. Cuando termine, arranco la siguiente.
 
 ---
 
