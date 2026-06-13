@@ -42,17 +42,24 @@ Cada video sigue una estructura de 5 actos:
 
 ```
 danpuriy/
-├── videos/          → Metadatos YAML de cada video del canal
+├── videos/                  → Metadatos YAML de cada video
 │   └── etapa-0/
-├── ejercicios/      → Práctica por etapa. 3 niveles de dominio
+├── ejercicios/              → Práctica por video. 3 niveles de dominio
 │   └── etapa-0/
-│       ├── teorico/      ← Preguntas conceptuales
-│       ├── practico/     ← Código con tests automáticos
-│       └── solucion/     ← Referencia
-├── proyectos/       → Código fuente de los proyectos integradores
-├── challenges/      → Retos semanales (#DanpuriyChallenge)
-├── docs/            → Guías, cheatsheets, material complementario
-└── comunidad/       → FAQ, roadmap público, recursos
+│       └── E00-12-primer-binario/
+│           ├── teorico/     ← 🎯 Preguntas conceptuales
+│           ├── practico/    ← ⚔️ Código con tests automáticos
+│           ├── solucion/    ← Referencia (solo si te trabás)
+│           └── dominio-total/ ← 🏆 Proyectos que integran este concepto
+├── proyectos/               → Proyectos integradores (múltiples por etapa)
+│   └── etapa-0/
+│       └── proyecto-01-oraculo/
+│           ├── src/
+│           ├── tests/
+│           └── solucion/
+├── challenges/              → Retos semanales (#DanpuriyChallenge)
+├── docs/                    → Guías, cheatsheets, material complementario
+└── comunidad/               → FAQ, roadmap público, recursos
 ```
 
 ---
@@ -85,15 +92,17 @@ Podés aplicarlo en código real.
 *Verificación:* Completá el código en `ejercicios/[etapa]/[video]/practico/` y que pasen los tests.
 
 ### 🏆 Dominio Total
-Integraste el concepto en un proyecto real.
+Integraste el concepto en **múltiples proyectos reales**.
 
-*Verificación:* Completá el proyecto integrador de la etapa en `proyectos/`
+Cada etapa tiene entre 3 y 5 proyectos de dominio total. No se trata de hacer uno y listo — se trata de aplicar el mismo concepto en contextos distintos hasta que tu cerebro ya no tenga que "pensar" para usarlo.
+
+*Verificación:* Completá los proyectos de la etapa en `proyectos/`. Cada proyecto tiene su propia carpeta con README, código base y tests.
 
 ---
 
 ## 🤝 Comunidad
 
-- [Discord](https://discord.gg/danpuriy) — interactuá con otros estudiantes
+- [Discord](https://discord.gg/uyKUZKJX) — interactuá con otros estudiantes
 - [GitHub Discussions](https://github.com/Danpuriy/danpuriy/discussions) — preguntá y respondé
 - [YouTube](https://youtube.com/@danpuriy) — los videos
 

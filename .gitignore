@@ -1,0 +1,19 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Clangd
+.cache/
+
+# Compiled modules (C++20/23)
+*.pcm
+*.gcm
