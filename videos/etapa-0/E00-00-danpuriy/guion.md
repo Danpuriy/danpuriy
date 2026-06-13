@@ -160,22 +160,21 @@ DANIEL:
 
 (Mostrar en pantalla)
 
-"Este es E00-12: Tu Primer Binario C++23.
+"Este es E00-01: El Sueño de Turing.
 El primer video técnico del canal.
-Abrís el repo, clonás, escribís código, compilás con CMake, ejecutás.
-Si los tests pasan, lo lograste."
+Arrancamos por donde arranca todo: la Máquina de Turing Universal.
+Sin eso, nada de lo que sigue tiene sentido."
 
 (Mostrar rápidamente)
 
-"Y acá el primer proyecto: El Oráculo.
-Un programita que te recomienda por dónde arrancar.
-Sencillo, fácil, y cuando lo terminás ya compilaste y ejecutaste tu primer programa."
+"Y acá el repo, con los ejercicios del video.
+Preguntas teóricas, código, y después proyectos que integran todo."
 
 (Pausa. Volver a cámara.)
 
 "El canal arranca con este video de presentación.
-El segundo es E00-12: código, compilación, tu primer binario.
-Directo al grano."
+El segundo es E00-01: El Sueño de Turing.
+Directo al origen."
 
 ---
 
