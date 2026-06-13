@@ -28,6 +28,11 @@ Cada video tiene ejercicios y proyectos para que puedas practicar lo que viste.
 
 ```
 danpuriy/
+├── videos/                  → Guiones y metadata de cada video publicado
+│   └── etapa-0/
+│       └── E00-12-primer-binario/
+│           ├── metadata.yaml
+│           └── guion.md
 ├── ejercicios/              → Práctica por video. 3 niveles
 │   └── etapa-0/
 │       └── E00-12-primer-binario/

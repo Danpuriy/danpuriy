@@ -1,0 +1,21 @@
+video_id: E00-12
+title: "Tu Primer Binario C++23"
+slug: primer-binario
+stage: 0
+duration_est_min: 25
+status: grabando
+tags:
+  - c++
+  - compilacion
+  - binario
+  - cmake
+  - toolchain
+concepts:
+  - "Ciclo de edición: escribir, compilar, ejecutar"
+  - "main() como punto de entrada"
+  - "std::println y salida por terminal"
+  - "Compilación con CMake"
+  - "Hello world"
+exercise_ref: ejercicios/etapa-0/E00-12-primer-binario/
+project_ref: proyectos/etapa-0/proyecto-01-oraculo/
+youtube_url: null
